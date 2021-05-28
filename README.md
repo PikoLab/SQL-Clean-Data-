@@ -1,6 +1,5 @@
-# SQL-Clean-Data
+# Cleaning Data in SQL
 
-### Purpose: Cleaning Data in SQL
 1. Data Manipulation Language(DML): ALTER, UPDATE, DELETE 
 2. Standardize data format
 3. Split the value and extract useful information 
