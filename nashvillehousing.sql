@@ -157,7 +157,7 @@ WHERE uniqueid IN (SELECT uniqueid
 			 		    FROM nashvillehousing) temp
 			       WHERE row_num>1);
 
--- Delete Unsued Columns
+-- Delete Unused Columns
 
 ALTER TABLE nashvillehousing 
 DROP COLUMN taxdistrict 
